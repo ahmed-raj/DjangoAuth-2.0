@@ -6,7 +6,7 @@ just place the users app in your project, rest of the things the app will do its
 (just place the app url by yourself)
 
 #login
-![](media/login.png)
+![](DjangoAuth-2.0/Dj_auth/media/login.png)
 
 #signup
 ![](media/signup.png)
